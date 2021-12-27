@@ -2,9 +2,12 @@
 // Use of this source code is governed by a
 // BSD-style license that can be found in the LICENSE file.
 
-import 'package:improvement_rate/improvement_rate.dart';
+// Package imports:
 import 'package:test/expect.dart';
 import 'package:test/scaffolding.dart';
+
+// Project imports:
+import 'package:improvement_rate/improvement_rate.dart';
 
 void main() {
   final calculator = Calculator.instance;

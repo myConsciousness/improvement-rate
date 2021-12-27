@@ -33,6 +33,13 @@ import 'package:improvement_rate/src/should_be.dart';
 ///
 ///   print(resultShouldBeIncreased);
 ///   // => ImprovementRate(value: -63.0, trend: Trend.worse, policy: ShouldBe.increased, before: 100.0, after: 37.0)
+///
+///   switch (resultShouldBeDecreased.trend) {
+///     case Trend.better:
+///       return;
+///     case Trend.worse:
+///       return;
+///   }
 /// }
 /// ```
 abstract class Calculator {

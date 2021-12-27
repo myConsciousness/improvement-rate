@@ -20,4 +20,11 @@ void main() {
 
   print(resultShouldBeDecreased);
   print(resultShouldBeIncreased);
+
+  switch (resultShouldBeDecreased.trend) {
+    case Trend.better:
+      return;
+    case Trend.worse:
+      return;
+  }
 }

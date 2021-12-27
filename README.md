@@ -1,9 +1,7 @@
 **_A most easily usable improvement rate calculator library in Dart!_**
 
 [![pub package](https://img.shields.io/pub/v/improvement_rate.svg)](https://pub.dev/packages/improvement_rate)
-[![codecov](https://codecov.io/gh/myConsciousness/improvement-rate/branch/main/graph/badge.svg?token=2JMUAZOIGB)](https://codecov.io/gh/myConsciousness/improvement-rate)
-[![Analyzer](https://github.com/myConsciousness/improvement-rate/actions/workflows/analyzer.yml/badge.svg)](https://github.com/myConsciousness/improvement-rate/actions/workflows/analyzer.yml)
-[![Test](https://github.com/myConsciousness/improvement-rate/actions/workflows/test.yml/badge.svg)](https://github.com/myConsciousness/improvement-rate/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/myConsciousness/improvement-rate/branch/main/graph/badge.svg?token=IMK41A6JZQ)](https://codecov.io/gh/myConsciousness/improvement-rate)[![Analyzer](https://github.com/myConsciousness/improvement-rate/actions/workflows/analyzer.yml/badge.svg)](https://github.com/myConsciousness/improvement-rate/actions/workflows/analyzer.yml)[![Test](https://github.com/myConsciousness/improvement-rate/actions/workflows/test.yml/badge.svg)](https://github.com/myConsciousness/improvement-rate/actions/workflows/test.yml)
 
 <!-- TOC -->
 

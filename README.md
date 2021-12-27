@@ -20,6 +20,8 @@
 `ImprovementRate` is an open-sourced Dart library.</br>
 With `ImprovementRate`, you can easily calculate improvement rate on your application.
 
+Maybe you have looked up a formula or implemented similar steps when comparing data and calculating improvement rates. With this library, such research and implementation is no longer necessary!
+
 The following formula is used to calculate the improvement rate.
 
 **_When after value should be increased:_**
